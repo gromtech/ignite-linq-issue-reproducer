@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ignite-linq-issue-reproducer", "complex-ignite-linq-query-example\ignite-linq-issue-reproducer.csproj", "{2EBE004E-6FB6-42C5-83EE-EC710367116E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Debug|x64.ActiveCfg = Debug|x64
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Debug|x64.Build.0 = Debug|x64
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Release|x64.ActiveCfg = Release|x64
+		{2EBE004E-6FB6-42C5-83EE-EC710367116E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5C5A77-758B-43ED-A43A-D2227DDAF8F9}
+	EndGlobalSection
+EndGlobal
